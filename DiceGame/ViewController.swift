@@ -20,8 +20,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        firstImage.image = diceArray[4]
-        secondImage.image = diceArray[4]
+        firstImage.image = diceArray[3]
+        secondImage.image = diceArray[3]
+        // testing branch change from xCode
     }
     
     
